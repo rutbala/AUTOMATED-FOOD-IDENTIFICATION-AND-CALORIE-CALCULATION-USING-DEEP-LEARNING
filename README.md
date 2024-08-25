@@ -1,4 +1,4 @@
-# AUTOMATED-FOOD-IDENTIFICATION-AND-CALORIE-CALCULATION-USING-DEEP-LEARNING | Computer Vision, Deep Learning, Healthcare, Python 
+# AUTOMATED-FOOD-IDENTIFICATION-AND-CALORIE-CALCULATION | Computer Vision, Deep Learning, Healthcare, Python 
 
 Introduction:-
 
